@@ -13,11 +13,8 @@
 <table class="table">
     <thead>
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.FirstName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.LastName)
+            <th>@{ var FullName = "FullName";}
+                @Html.DisplayNameFor(model => FullName)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Gender)
@@ -53,11 +50,8 @@
         @foreach (var item in Model)
         {
             <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.FirstName)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.LastName)
+                <td>@{ var name = item.FirstName +" "+ item.LastName;}
+                    @Html.DisplayFor(modelItem => name)
                 </td>
                 <td>
                     @Html.DisplayFor(modelItem => item.Gender)
@@ -88,7 +82,6 @@
                 </td>
                 <td>
                     <a asp-action="Edit" asp-route-id="@item.StudentId">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.StudentId">Details</a> |
                     <a asp-action="Delete" asp-route-id="@item.StudentId">Delete</a>
                 </td>
             </tr>

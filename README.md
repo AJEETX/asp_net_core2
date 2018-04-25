@@ -19,9 +19,11 @@ The repository consists of 2 projects:
 
 ### Feature 1
 Describe feature 1. Add screenshots/code samples etc.
+<img width="1469" alt="display" src="https://user-images.githubusercontent.com/16511837/30899573-bfa516e0-a3a3-11e7-9783-1cfd3a4934fd.png">
+
 
 ### Feature 2
-Describe feature 2. Add screenshots/code samples etc.
+![alt text](http://url/to/img.png)
 
 #### Sub feature
 Describe sub feature. Add screenshots/code samples etc.
@@ -32,4 +34,4 @@ if you want to contribute to this project.
 
 
 ## License
-[MIT](LICENSE)
+[Apache 2.0](LICENSE)
