@@ -1,7 +1,13 @@
-# asp.net core2.0 mvc and webapi 
+# asp.net core2.0 mvc/api ![GitHub release](https://img.shields.io/github/release/ajeetx/asp_net_core2.svg?style=for-the-badge) ![Maintenance](https://img.shields.io/maintenance/yes/2018.svg?style=for-the-badge)
 
-<!-- Replace this badge with your own-->
-[![Build status](https://ci.appveyor.com/api/projects/status/j9823ktd57qisa7s/branch/master?svg=true)](https://ci.appveyor.com/project/AJEETX/asp-net-core2/branch/master)
+
+![Travis](https://img.shields.io/travis/AJEETX/asp_net_core2.svg) |![GitHub Release Date](https://img.shields.io/github/release-date/ajeetx/asp_net_core2.svg)|
+| --- | --- |
+
+[![.Net Framework](https://img.shields.io/badge/DotNet-2.0-blue.svg?style=plastic)](https://www.microsoft.com/en-au/download/details.aspx?id=1639) | ![GitHub top language](https://img.shields.io/github/languages/top/ajeetx/asp_net_core2.svg) |![GitHub repo size in bytes](https://img.shields.io/github/repo-size/ajeetx/asp_net_core2.svg) 
+| ---          | ---        | ---              | 
+
+
 
 ---------------------------------------
 
@@ -29,10 +35,10 @@ Describe feature 2. Add screenshots/code samples etc.
 Describe sub feature. Add screenshots/code samples etc.
 ![alt text](http://url/to/img.png)
 
-## Contribute
-Check out the [contribution guidelines](CONTRIBUTING.md)
-if you want to contribute to this project.
+### Support or Contact
+
+Having any trouble? Check out our [documentation](https://github.com/AJEETX/decorator_design_pattern/blob/master/README.md) or [contact support](mailto:ajeetkumar@email.com) and we’ll help you sort it out.
 
 
-## License
-[Apache 2.0](LICENSE)
+[![HitCount](http://hits.dwyl.io/ajeetx/asp_net_core2/projects/1.svg)](http://hits.dwyl.io/ajeetx/asp_net_core2/projects/1) | ![GitHub contributors](https://img.shields.io/github/contributors/ajeetx/asp_net_core2.svg?style=plastic)|![license](https://img.shields.io/github/license/ajeetx/asp_net_core2.svg?style=plastic)|
+ | --- | --- | ---|
