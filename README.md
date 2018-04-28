@@ -37,7 +37,7 @@ Describe sub feature. Add screenshots/code samples etc.
 
 ### Support or Contact
 
-Having any trouble? Check out our [documentation](https://github.com/AJEETX/decorator_design_pattern/blob/master/README.md) or [contact support](mailto:ajeetkumar@email.com) and we’ll help you sort it out.
+Having any trouble? Check out our [documentation](https://github.com/AJEETX/asp_net_core2/blob/master/README.md) or [contact support](mailto:ajeetkumar@email.com) and we’ll help you sort it out.
 
 
 [![HitCount](http://hits.dwyl.io/ajeetx/asp_net_core2/projects/1.svg)](http://hits.dwyl.io/ajeetx/asp_net_core2/projects/1) | ![GitHub contributors](https://img.shields.io/github/contributors/ajeetx/asp_net_core2.svg?style=plastic)|![license](https://img.shields.io/github/license/ajeetx/asp_net_core2.svg?style=plastic)|
