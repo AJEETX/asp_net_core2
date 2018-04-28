@@ -14,25 +14,51 @@
 ## Introduction 
 
 The repository consists of 2 projects:
-1) Asp.Net Core2 MVC
+1) Asp.Net Core2 MVC 
+- Its the frontend through which a user input data and gets output
 2) Asp.Net Core2 API 
+- Its the backend that processes the request from the MVC frontend
 
 ## Features
 
-- MVC application is the frontend to get user input and display output
-- API application is the backend and processes the request from MVC application
-  - CRUD operation
+##### Basic CRUD operation
 
-### Feature 1
-Describe feature 1. Add screenshots/code samples etc.
+| Page | Function |
+| --- | --- |
+| Index | User can view list of existing students |
+| Create |  User can create new student |
+| Edit | User can edit existing student |
+| Delete | User can delete existing student |
+
+#### Index page
+```
+The list of created students is displayed .
+url : / 
+```
 ![alt text](http://url/to/img.png)
 
-### Feature 2
-Describe feature 2. Add screenshots/code samples etc.
+#### Create student
+```
+A student can be created
+url: /create
+
+```
 ![alt text](http://url/to/img.png)
 
-#### Sub feature
-Describe sub feature. Add screenshots/code samples etc.
+#### Edit student
+```
+A student can be edited
+url: /edite/{id}
+
+```
+![alt text](http://url/to/img.png)
+
+#### Delete student
+```
+A student can be deleted
+url: /delete/{id}
+
+```
 ![alt text](http://url/to/img.png)
 
 ### Support or Contact
