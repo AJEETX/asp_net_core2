@@ -35,7 +35,7 @@ The repository consists of 2 projects:
 The list of created students is displayed .
 url : / 
 ```
-![alt text](http://url/to/img.png)
+![display students](Screenshot/index.png)
 
 #### Create student
 ```
@@ -43,7 +43,7 @@ A student can be created
 url: /create
 
 ```
-![alt text](http://url/to/img.png)
+![create student](Screenshot/create.png)
 
 #### Edit student
 ```
@@ -51,7 +51,7 @@ A student can be edited
 url: /edite/{id}
 
 ```
-![alt text](http://url/to/img.png)
+![edit student](Screenshot/edit.png)
 
 #### Delete student
 ```
@@ -59,7 +59,6 @@ A student can be deleted
 url: /delete/{id}
 
 ```
-![alt text](http://url/to/img.png)
 
 ### Support or Contact
 
