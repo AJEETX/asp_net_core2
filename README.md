@@ -59,7 +59,7 @@ A student can be deleted
 url: /delete/{id}
 
 ```
-
+![delete student](Screenshot/delete.png)
 ### Support or Contact
 
 Having any trouble? Check out our [documentation](https://github.com/AJEETX/asp_net_core2/blob/master/README.md) or [contact support](mailto:ajeetkumar@email.com) and we’ll help you sort it out.
