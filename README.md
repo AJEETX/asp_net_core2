@@ -4,8 +4,8 @@
 ![Travis](https://img.shields.io/travis/AJEETX/asp_net_core2.svg) |![GitHub Release Date](https://img.shields.io/github/release-date/ajeetx/asp_net_core2.svg)|
 | --- | --- |
 
-[![.Net Framework](https://img.shields.io/badge/DotNet-2.0-blue.svg?style=plastic)](https://www.microsoft.com/en-au/download/details.aspx?id=1639) | ![GitHub top language](https://img.shields.io/github/languages/top/ajeetx/asp_net_core2.svg) |![GitHub repo size in bytes](https://img.shields.io/github/repo-size/ajeetx/asp_net_core2.svg) 
-| ---          | ---        | ---              | 
+[![.Net Framework](https://img.shields.io/badge/DotNet-2.0-blue.svg?style=plastic)](https://www.microsoft.com/en-au/download/details.aspx?id=1639) | ![GitHub language count](https://img.shields.io/github/languages/count/ajeetx/asp_net_core2.svg)| ![GitHub top language](https://img.shields.io/github/languages/top/ajeetx/asp_net_core2.svg) |![GitHub repo size in bytes](https://img.shields.io/github/repo-size/ajeetx/asp_net_core2.svg) 
+| ---          | ---        | ---       | ---       | 
 
 
 
